@@ -23,6 +23,8 @@
 - 사회인 밴드 활동을 돕는 플랫폼 밴드웨건을 개발했습니다.
 - React, TailwindCSS를 사용하였습니다.
 
-<p>🏆 Baekjoon solved rank 🏆</p>
+## 🏆 Baekjoon solved rank 🏆
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=city)](https://solved.ac/city/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dart)](https://solved.ac/dart/)
