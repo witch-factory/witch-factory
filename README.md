@@ -24,5 +24,5 @@
 - React, TailwindCSS를 사용하였습니다.
 
 <p>🏆 Baekjoon solved rank 🏆</p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=city)](https://solved.ac/city)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=city)](https://solved.ac/city/)
