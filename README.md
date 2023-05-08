@@ -5,6 +5,7 @@
 - tech blog : [https://witch.work](https://witch.work)
 - email : <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
 - [resume](https://github.com/witch-factory/my_resume)
+- 흔히 '마녀'라는 닉네임을 씁니다.
 
 ## Activity
 
@@ -16,6 +17,9 @@
 - 2022 겨울 신촌지역 대학교 프로그래밍 동아리 연합 알고리즘 캠프 초급반 강사 활동
 - [강의자료 링크](https://github.com/witch-factory/2022-winter-sinchon-lecture)
 
+### [SW마에스트로](https://www.swmaestro.org/sw/main/main.do)
+- 13기 수료(2022.04~2022.11)
+
 ## 🏆 Baekjoon solved rank 🏆
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=city)](https://solved.ac/city/)
@@ -24,6 +28,6 @@
 
 ## More about..
 
-- 자신의 일을 사랑한다고 단 1초도 망설임없이 말할 수 있는 사람들을 보았고, 그들처럼 되고 싶어 개발자의 길에 들어섰습니다.
-- 같이 일하고 싶은 사람이 되고자 하며 온전한 솔직함으로 대할 수 있는 동료를 목표로 합니다.
-- 스스로 문제를 생각하고 깊이 파고드는 것을 즐깁니다. [프론트엔드를 공부하며 JS에 관한 질문들을 스스로 정의하고 조사하여 정리합니다.](https://witch.work/?tag=javascript)
+- 자신의 일을 사랑한다고 단 1초도 망설임없이 말할 수 있는 사람들을 개발업계에서 보았고, 그들처럼 되고 싶어 개발자의 길에 들어섰습니다.
+- 같이 일하고 싶은 사람이 되고자 하며 온전한 솔직함으로 서로를 대할 수 있는 동료를 목표로 합니다.
+- 스스로 문제를 생각하고 깊이 파고드는 것을 즐깁니다. 예를 들어 [JS에 관한 질문들을 스스로 정의하고 조사하여 정리합니다.](https://witch.work/?tag=javascript)
