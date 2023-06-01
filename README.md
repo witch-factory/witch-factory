@@ -17,6 +17,10 @@
 - 2022 겨울 신촌지역 대학교 프로그래밍 동아리 연합 알고리즘 캠프 초급반 강사 활동
 - [강의자료 링크](https://github.com/witch-factory/2022-winter-sinchon-lecture)
 
+### [개인 블로그 제작](https://witch-next-blog.vercel.app/)
+- 어느 날 직접 만든 블로그를 만들고 싶어져서 만들었습니다.
+- 엄청난 몰입의 경험을 할 수 있었습니다.
+
 ### [SW마에스트로](https://www.swmaestro.org/sw/main/main.do)
 - 13기 수료(2022.04~2022.11)
 
