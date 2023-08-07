@@ -2,7 +2,6 @@
 
 프론트엔드 개발자입니다. 멋진 사람들이 내는 빛을 따라가다 보니 여기까지 왔고, 앞으로도 그렇게 살고자 합니다. 이곳에 찾아오신 당신과도 함께할 수 있어 영광입니다.
 
-- tech blog : [https://witch.work](https://witch.work)
 - email : <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
 - [resume](https://github.com/witch-factory/my_resume)
 - 흔히 '마녀'라는 닉네임을 씁니다.
