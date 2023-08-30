@@ -15,7 +15,7 @@ Frontend developer. Following the footsteps of amazing people has led me reach u
 - [Youtube rec(Korean)](https://www.youtube.com/watch?v=RXpOaKQES-g)
 
 ### [ICPC Sinchon](https://icpc-sinchon.io/suapc)
-- 2022 Winter ICPC Sinchon Algorithm Camp novice instructor
+- Instructor in 2022 Winter ICPC Sinchon Algorithm Camp, beginner class
 - Taught basic algorithms to the students from 5 universities in Sinchon.
 - [Lecture material(Korean)](https://github.com/witch-factory/2022-winter-sinchon-lecture)
 
