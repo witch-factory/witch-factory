@@ -32,4 +32,4 @@ Frontend developer. Following the footsteps of amazing people has led me reach u
 
 - I've seen some developers saying that they love what they do without a second's hesitation. I became a developer because I was indeed inspired from their passion and wanted to be one of them.
 - I aim to be the kind of people you want to work with. And I also want to be the co-worker who can treat each other with radical candor.
-- I enjoy thinking through problems on my own and digging deep. [For instance, I define, research and write articles for my own questions about Javascript.](https://witch.work/posts?search=js)
+- I enjoy thinking through problems on my own and digging deep. [For instance, I define my own question about Javascript, research about it and write articles.](https://witch.work/posts?search=js)
