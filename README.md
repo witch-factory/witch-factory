@@ -3,7 +3,7 @@
 Frontend developer. Following the footsteps of amazing people has led me reach up till this point, and I wish to pursue such brilliance for the following years as well. I also honor you find me here.
 
 - email : <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
-- [resume in github](https://github.com/witch-factory/my_resume)
+- [resume in GitHub](https://github.com/witch-factory/my_resume)
 - [resume(KOR) in web](https://witch.work/resume/kor)
 - [resume(ENG) in web](https://witch.work/resume/eng)
 - Commonly use the nickname "마녀" meaning witch in Korean.
