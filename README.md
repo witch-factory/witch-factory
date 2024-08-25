@@ -18,3 +18,11 @@ Frontend developer. Following the footsteps of amazing people has led me reach u
 
 - I've seen some developers saying that they love what they do without a second's hesitation. I became a developer because I was indeed inspired from their passion and wanted to be one of them.
 - I enjoy thinking through problems on my own and digging deep. [For instance, I love defining my own question about Javascript, research about it and write articles.](https://witch.work/posts?search=js)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/witch-factory"
+  width="600"
+  height="300"
+/>
+</a>
