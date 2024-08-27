@@ -1,12 +1,9 @@
-## About
+## 소개
 
-Frontend developer. Following the footsteps of amazing people has led me reach up till this point, and I wish to pursue such brilliance for the following years as well. I also honor you find me here.
+흔히 "마녀"라는 닉네임을 쓰는 프론트 개발자입니다. 멋진 사람들이 내는 빛을 따라가다 보니 여기까지 왔고, 앞으로도 그렇게 살 수 있었으면 좋겠다고 생각하는 사람입니다. 할 수 있는 것을 하며 꿈을 꾸다 보면 언젠가는 저도 진짜 마녀처럼, 코드로 마법을 부려 빛날지도 모릅니다.
 
-- email : <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
-- [resume in GitHub](https://github.com/witch-factory/my_resume)
-- [resume(KOR) in web](https://witch.work/resume/kor)
-- [resume(ENG) in web](https://witch.work/resume/eng)
-- Commonly use the nickname "마녀" meaning witch in Korean.
+- 이메일 : <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
+- [이력서 링크](https://witch.work/resume/kor)
 
 ## 🏆 Baekjoon solved rank 🏆
 
@@ -14,10 +11,10 @@ Frontend developer. Following the footsteps of amazing people has led me reach u
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dart)](https://solved.ac/dart/)
 
-## More about..
+## 배경
 
-- I've seen some developers saying that they love what they do without a second's hesitation. I became a developer because I was indeed inspired from their passion and wanted to be one of them.
-- I enjoy thinking through problems on my own and digging deep. [For instance, I love defining my own question about Javascript, research about it and write articles.](https://witch.work/posts?search=js)
+- 다른 전공을 하다가 우연히 몇몇 개발자들을 만났습니다. 그들은 단 1초의 망설임도 없이 자신의 일을 사랑한다고 말했습니다. 그렇게 열정과 확신에 찬 그들의 눈빛에 끌려 개발자가 되었습니다.
+- 스스로 질문을 던지고 조사하고 기록하는 것을 즐깁니다. [예를 들어 JavaScript와 TypeScript에 대한 약 40개의 글을 조사해 작성하였습니다.](https://witch.work/posts?search=%ED%83%90%EA%B5%AC%EC%83%9D%ED%99%9C)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
