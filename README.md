@@ -2,7 +2,7 @@
 
 흔히 "마녀"라는 닉네임을 쓰는 프론트 개발자입니다. 멋진 사람들이 내는 빛을 따라가다 보니 여기까지 왔고, 앞으로도 그렇게 살 수 있었으면 좋겠다고 생각하는 사람입니다. 할 수 있는 것을 하며 꿈을 꾸다 보면 언젠가는 저도 진짜 마녀처럼, 코드로 마법을 부려 빛날지도 모릅니다.
 
-- 이메일 : <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
+- 이메일 : <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
 - [이력서 링크](https://witch.work/resume/kor)
 
 ## 🏆 Baekjoon solved rank 🏆
