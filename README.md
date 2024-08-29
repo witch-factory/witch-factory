@@ -7,6 +7,8 @@
 - 다른 전공을 하다가 우연히 몇몇 개발자들을 만났습니다. 그들은 단 1초의 망설임도 없이 자신의 일을 사랑한다고 말했습니다. 그렇게 열정과 확신에 찬 그들의 눈빛에 끌려 개발자가 되었습니다.
 - 스스로 질문을 던지고 조사하고 기록하는 것을 즐깁니다. [예를 들어 JavaScript와 TypeScript에 대한 약 40개의 글을 조사해 작성하였습니다.](https://witch.work/posts?search=%ED%83%90%EA%B5%AC%EC%83%9D%ED%99%9C)
 
+## 정보
+
 - 블로그: [witch.work](https://witch.work)
 - 이메일: <a href="mailto:soakdma37@gmail.com">soakdma37@gmail.com</a>
 - [이력서 링크](https://witch.work/resume/kor)
